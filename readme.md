@@ -88,4 +88,4 @@
 
 ![image](images/QRcode.png)
 
-<font color='red'>（如需海外手机号注册请联系客服）</font>
+**（如需海外手机号注册请联系客服）**

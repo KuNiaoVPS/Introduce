@@ -70,15 +70,15 @@
 
 ### 服务器购买界面展示
 
- ![image]('images/vps-buy.png')
+ ![image](images/vps-buy.png)
 
 ### 服务器列表界面展示
 
- ![image]('images/vps-list.png')
+ ![image](images/vps-list.png)
 
 ### 服务器远程界面展示
 
- ![image]('images/vps-remote.png')
+ ![image](images/vps-remote.png)
 
 ---
 
@@ -86,6 +86,6 @@
 
 添加1v1专属客服：
 
-![image]('images/QRcode.png')
+![image](images/QRcode.png)
 
 <font color='red'>（如需海外手机号注册请联系客服）</font>
